@@ -40,7 +40,5 @@ This program takes a URL as input and outputs the top words on that URL along wi
 ## Future Improvements
 
 - Improve handling of edge cases such as invalid URLs or non-text content.
-- Implement more sophisticated text processing techniques for better word extraction.
+- Implement more sophisticated text processing techniques for better word extraction (IE for multi-word phrases).
 - Enhance stop words handling by allowing customization or using more comprehensive stop words lists.
-- Add error handling for cases like network errors or invalid responses from the server.
-- Implement unit tests to ensure robustness and reliability of the code.
