@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Optional: environment variables file
+.env
+
+# macOS system files
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Ignore build artifacts and other generated files
+dist/
