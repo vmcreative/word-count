@@ -1,0 +1,14 @@
+{
+  "name": "top-words-counter",
+  "version": "1.0.0",
+  "description": "A Node.js script to count the top 25 words on a webpage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Vincent Martin",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^3.1.23"
+  }
+}
